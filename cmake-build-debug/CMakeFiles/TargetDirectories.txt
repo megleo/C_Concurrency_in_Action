@@ -1,0 +1,5 @@
+/home/ts/vscode/C_Concurrency_in_Action/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ts/vscode/C_Concurrency_in_Action/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ts/vscode/C_Concurrency_in_Action/cmake-build-debug/Chapter3/CMakeFiles/mutux_example1.dir
+/home/ts/vscode/C_Concurrency_in_Action/cmake-build-debug/Chapter3/CMakeFiles/edit_cache.dir
+/home/ts/vscode/C_Concurrency_in_Action/cmake-build-debug/Chapter3/CMakeFiles/rebuild_cache.dir

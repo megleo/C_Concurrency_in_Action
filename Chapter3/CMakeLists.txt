@@ -1,0 +1,2 @@
+add_executable(mutux_example1 mutux_example1.cpp)
+target_link_libraries(mutux_example1 PRIVATE -pthread)
